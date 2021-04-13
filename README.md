@@ -1,4 +1,5 @@
-###Gold Panning
+#Gold Panning
+
 This is an activity for FiveM servers, it was not created to work for any specific framework and it will be up to you to intergrate this with your server. This resource uses PolyZone's by mkafrin to define pannable rivers, and once a player has started panning in a spot it'll create a "deposit" on his location which can only be used a configured amount of times before it is considered empty. Chances of finding gold vary depending on how many times a deposit has been used.
 
 **Requirements**

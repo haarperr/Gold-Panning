@@ -20,6 +20,7 @@ Clientside event to trigger
 
 Events that can be listened on both client and server 
 > Client: GoldPanning:Reward (Params: amountOfNuggets)
+
 > Server: GoldPanning:Reward (Params: source, amountOfNuggets)
 
 ---
